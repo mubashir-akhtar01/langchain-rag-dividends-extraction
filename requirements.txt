@@ -1,0 +1,15 @@
+fastapi[standard]==0.115.12
+starlette==0.45.3
+python-multipart==0.0.20
+pypdf==5.4.0
+langchain
+langchain-community
+langchain-chroma
+langchain-core
+langchain_text_splitters
+langchain_google_genai
+python-dotenv==1.1.0
+chromadb==0.5.23
+sqlmodel==0.0.24
+PyMuPDF==1.25.5
+google-generativeai==0.8.5
