@@ -26,6 +26,6 @@ A[PDF Upload] --> B[PyMuPDF Text Extraction]
 B --> C[Embeddings via Google text-embedding-004]
 C --> D[Chroma DB Vector Store]
 D --> E[LangChain Retrieval Pipeline]
-E --> F[LLM Response Generation (Gemini 2.0 Flash)]
+E --> F[LLM Response Generation Gemini 2.0 Flash]
 F --> G[FastAPI Endpoint]
 
